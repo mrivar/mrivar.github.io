@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{316:function(t,n,e){"use strict";e.r(n);var r={layout:"covid19CountryStats",validate:function(t){t.params;return!1}},o=e(2),component=Object(o.a)(r,(function(){var t=this.$createElement;return(this._self._c||t)("div",[this._v(this._s(this.$route.params))])}),[],!1,null,null,null);n.default=component.exports}}]);
