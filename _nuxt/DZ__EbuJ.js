@@ -1,0 +1,1 @@
+import{_ as o,c as n,o as c,d as t,r}from"./BNd61-QF.js";const _={},a={class:"title-container"},d={class:"title"};function l(s,e){return c(),n("div",a,[t("h1",d,[r(s.$slots,"default",{},void 0,!0)]),e[0]||(e[0]=t("div",{class:"red-block"},null,-1))])}const f=o(_,[["render",l],["__scopeId","data-v-619437e5"]]);export{f as _};
